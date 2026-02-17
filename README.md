@@ -28,5 +28,3 @@ The system analyzes a product review and extracts:
 
 ---
 
-## 🏗 Project Structure
-
